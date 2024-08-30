@@ -5,11 +5,12 @@
 Some of my favorite things about CS193:
 
 
--    No extra, final exam.
+-    No midterms, final exams.
 -    Young intrsuctors with the same vibes as students.
 -    A lot of discussions during the lessons.
--    Cute Powerpoint Slides with a lof of fun images.
+-    Cute Powerpoint Slides with a lot of fun images.
 -    Fun activities in class.
+
 
 
 

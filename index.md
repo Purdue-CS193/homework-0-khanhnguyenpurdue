@@ -1,13 +1,16 @@
 ## Khanh Nguyen's First CS193 Homework
 
 
+
 Some of my favorite things about CS193:
 
--  No extra, final exam.
--  Young intrsuctors with the same vibes as students.
--  A lot of discussions during the lessons.
--  Cute Powerpoint Slides with a lof of fun images.
--  Fun activities in class.
+
+-    No extra, final exam.
+-    Young intrsuctors with the same vibes as students.
+-    A lot of discussions during the lessons.
+-    Cute Powerpoint Slides with a lof of fun images.
+-    Fun activities in class.
+
 
 
 

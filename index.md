@@ -5,14 +5,16 @@
 Some of my favorite things about CS193:
 
 
+
 -    No midterms, final exams.
 -    Young intrsuctors with the same vibes as students.
 -    A lot of discussions during the lessons.
 -    Cute Powerpoint Slides with a lot of fun images.
 -    Fun activities in class.
+-    Many valuable computer science resources for students.
 
 
-
+I love CS193 <3
 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

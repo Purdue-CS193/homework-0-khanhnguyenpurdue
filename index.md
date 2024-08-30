@@ -1,8 +1,15 @@
 ## Khanh Nguyen's First CS193 Homework
 
+
+Some of my favorite things about CS193:
+
 -  No extra, final exam.
--  Young intrsuctors with same vibes.
--  Lot of discussions during the lessons.
+-  Young intrsuctors with the same vibes as students.
+-  A lot of discussions during the lessons.
+-  Cute Powerpoint Slides with a lof of fun images.
+-  Fun activities in class.
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
